@@ -1,10 +1,10 @@
-public class persona{
+public class Persona{
     private String nombre;
     private String DNI;
     private int edad;
 }
 
-public persona (String nombre, String DNI, int edad){
+public Persona (String nombre, String DNI, int edad){
     this.nombre = nombre;
     this.DNI = DNI;
     this.edad = edad
